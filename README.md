@@ -6,7 +6,6 @@ Code for Udacity Android Developer Nanodegree Project 6 - Make Your App Material
 ### What will I learn
 Redesign an app to follow the Material Design guidelines and translate a set of static design mocks to a living and breathing app.
 
-
 * Understand the fundamentals of Android design.
 * Apply Material Design guidelines to an mobile application.
 * Separate an interface into surfaces.
