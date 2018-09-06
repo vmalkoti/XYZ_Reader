@@ -17,12 +17,18 @@
 
 <resources>
 
+    <!--
+    Added style item as suggested in
+    https://stackoverflow.com/questions/49292487/failed-to-find-style-coordinatorlayoutstyle-in-current-theme
+    -->
     <style name="Theme.Bacon" parent="@style/Theme.AppCompat.Light.NoActionBar">
-
+        <item name="coordinatorLayoutStyle">@style/Widget.Design.CoordinatorLayout</item>
     </style>
 
     <style name="Theme.Bacon.Detail">
         <item name="android:statusBarColor">@android:color/transparent</item>
     </style>
+
+
 
 </resources>
